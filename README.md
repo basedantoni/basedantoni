@@ -1,3 +1,4 @@
+![Gif](https://gph.is/1vOCl8h)
 ### Hello World! I'm Anthony Mercado 🖐🏼🎇
 ---
 <!--
