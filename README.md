@@ -13,7 +13,7 @@ My name is Anthony Mercado, I'm a born and raised Texan who loves everything tec
 
 - 💬 Ask me about what I think about JavaScript Frameworks
 
-- 📫 How to reach me:
+- 📫 How to reach me: <br/>
 Email     - anthonymercado9000@gmail.com
 LinkedIn  - https://www.linkedin.com/in/anthony-mercado/
 
