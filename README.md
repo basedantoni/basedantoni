@@ -6,9 +6,9 @@
 -->
 My name is Anthony Mercado, I'm a born and raised Texan who loves everything tech. I'm an aspiring Software Engineer who wants to build solutions to someone's problem. My skills are mostly web related but I have an interest in machine learning as well.
 <br/>
-- 🔭 I’m currently working on a Spotify Recommendation application that utilizes computer vision with images and the Spotify API
+- 🔭 I’m currently working on building useful integrations using the new Notion API
 
-- 🌱 I’m currently learning about Machine Learning
+- 🌱 I’m currently learning about Web Development
 
 - 🤔 I’m looking for help with getting my first full-time job as a Software Engineer
 
