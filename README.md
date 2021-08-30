@@ -6,7 +6,7 @@
 -->
 My name is Anthony Mercado, I'm a born and raised Texan who loves everything tech. I'm an aspiring Software Engineer who wants to build solutions to someone's problem. My skills are mostly web related but I have an interest in machine learning as well.
 <br/>
-- 🔭 I’m currently working on building useful integrations using the Notion API
+- 🔭 I’m currently working on a full stack sports trading application
 
 - 🌱 I’m currently learning about Web Development
 
